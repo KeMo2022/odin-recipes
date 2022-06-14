@@ -1,10 +1,62 @@
+/*main page*/
 .button {
     background-color: yellow;
     font-size: 15px;
     font-weight: bold;
 }
+
 h1 {
     background-color: yellow;
     font-size: 35px;
+    color: purple;
+}
+/*Breakfast recipe*/
+#Lemon {
+    background-color: yellow;
+    color: green;
+    font-family: Cambria;
+}
+
+.Lemon2 {
+    background-color: yellow;
+    color: green;
+    font-family: Cambria;
+}
+
+#Goback {
+    background-color: yellow;
+}
+
+/*Lunch*/
+.Sandwich {
+    background-color: Orange;
+    color: black;
+    font-family: fantasy;
+}
+
+#Goback2 {
+    background-color: yellow;
+    color: purple;
+}
+
+/*Dinner*/
+.Tofu {
+    background-color: green;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Goback3 {
+    background-color: yellow;
+    color: purple;
+}
+
+/*Dessert*/
+.Pie {
+    background-color: pink;
+    color: brown;
+    font-family: monospace;
+}
+#Goback4 {
+    background-color: yellow;
     color: purple;
 }
